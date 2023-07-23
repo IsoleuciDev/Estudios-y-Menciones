@@ -12,7 +12,7 @@ Mi primer app en react
 | Example Color | ![#00d1a0](https://via.placeholder.com/10/00b48a?text=+) #00d1a0 |
 
 
-## Hice una parte para mi futuro postafolio en React
+## Hice una parte para mi futuro portafolio en React
 
 
 
